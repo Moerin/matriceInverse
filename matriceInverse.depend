@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1375170688 source:/home/sebastien/workspace/C++Projects/matriceInverse/main.cpp
+	<iostream>
+	<string.h>
+
